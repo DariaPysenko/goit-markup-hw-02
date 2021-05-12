@@ -113,7 +113,7 @@ line-height: 1.8;
 letter-spacing: 0.06em;
 cursor: pointer;
 
-
+}
 
 .features-item {
 font-family: var(--main-font);
@@ -202,7 +202,7 @@ color: rgba(255, 255, 255, 0.6);
 
 }
 .address-font-style {
- font-style: normal
+ font-style: normal;
 }
 
 
